@@ -47,6 +47,7 @@ h1 {
     height: 100%;
     overflow: hidden;
     background: var(--primary-color) url('./cover.jpg') no-repeat center center/cover;
+    position: fixed;
 }
 
 .video-container video {
